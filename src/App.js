@@ -13,11 +13,11 @@ const App = () => {
     <div style={{height:"100vh"}}>
       <Menu />
       <Switch>
-        <Route exact path='/' component={Home}/>
-        <Route exact path='/about' component={About}/>
-        <Route exact path='/contact' component={Contact}/>
-        <Route exact path='/service' component={Service}/>
-        <Redirect to="/"/>
+        <Route exact path='/trideep_react-website/' component={Home}/>
+        <Route exact path='/trideep_react-website/about' component={About}/>
+        <Route exact path='/trideep_react-website/contact' component={Contact}/>
+        <Route exact path='/trideep_react-website/service' component={Service}/>
+        <Redirect to="/trideep_react-website/"/>
       </Switch>
       <Footer/>
       </div>
