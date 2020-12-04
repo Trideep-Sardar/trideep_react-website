@@ -13,7 +13,7 @@ const App = () => {
     <div style={{height:"100vh"}}>
       <Menu />
       <Switch>
-        <Route path='/' component={Home}/>
+        <Route exact path='/' component={Home}/>
         <Route exact path='/about' component={About}/>
         <Route exact path='/contact' component={Contact}/>
         <Route exact path='/service' component={Service}/>
