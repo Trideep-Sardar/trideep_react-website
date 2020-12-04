@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/trideep_react-website/static/css/main.69395516.chunk.css",
+    "main.js": "/trideep_react-website/static/js/main.02fe6383.chunk.js",
+    "main.js.map": "/trideep_react-website/static/js/main.02fe6383.chunk.js.map",
+    "runtime-main.js": "/trideep_react-website/static/js/runtime-main.ab7c7a85.js",
+    "runtime-main.js.map": "/trideep_react-website/static/js/runtime-main.ab7c7a85.js.map",
+    "static/css/2.07725c36.chunk.css": "/trideep_react-website/static/css/2.07725c36.chunk.css",
+    "static/js/2.9476854e.chunk.js": "/trideep_react-website/static/js/2.9476854e.chunk.js",
+    "static/js/2.9476854e.chunk.js.map": "/trideep_react-website/static/js/2.9476854e.chunk.js.map",
+    "index.html": "/trideep_react-website/index.html",
+    "static/css/2.07725c36.chunk.css.map": "/trideep_react-website/static/css/2.07725c36.chunk.css.map",
+    "static/css/main.69395516.chunk.css.map": "/trideep_react-website/static/css/main.69395516.chunk.css.map",
+    "static/js/2.9476854e.chunk.js.LICENSE.txt": "/trideep_react-website/static/js/2.9476854e.chunk.js.LICENSE.txt",
+    "static/media/home1.4469072d.jpg": "/trideep_react-website/static/media/home1.4469072d.jpg",
+    "static/media/home2.8c8e62e9.jpg": "/trideep_react-website/static/media/home2.8c8e62e9.jpg",
+    "static/media/home3.44dbe904.jpg": "/trideep_react-website/static/media/home3.44dbe904.jpg",
+    "static/media/image1.c5abfa4f.jpg": "/trideep_react-website/static/media/image1.c5abfa4f.jpg",
+    "static/media/image10.9cbbd040.jpg": "/trideep_react-website/static/media/image10.9cbbd040.jpg",
+    "static/media/image11.e3b3f292.jpg": "/trideep_react-website/static/media/image11.e3b3f292.jpg",
+    "static/media/image12.b0f4c8fd.jpg": "/trideep_react-website/static/media/image12.b0f4c8fd.jpg",
+    "static/media/image2.1d942acd.jpg": "/trideep_react-website/static/media/image2.1d942acd.jpg",
+    "static/media/image3.bd9f8490.jpg": "/trideep_react-website/static/media/image3.bd9f8490.jpg",
+    "static/media/image4.a382494a.jpg": "/trideep_react-website/static/media/image4.a382494a.jpg",
+    "static/media/image5.66ac7cfa.jpg": "/trideep_react-website/static/media/image5.66ac7cfa.jpg",
+    "static/media/image6.d743ea16.jpg": "/trideep_react-website/static/media/image6.d743ea16.jpg",
+    "static/media/image7.856806ae.jpg": "/trideep_react-website/static/media/image7.856806ae.jpg",
+    "static/media/image8.edcfbef4.jpg": "/trideep_react-website/static/media/image8.edcfbef4.jpg",
+    "static/media/image9.bdba3e54.jpg": "/trideep_react-website/static/media/image9.bdba3e54.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab7c7a85.js",
+    "static/css/2.07725c36.chunk.css",
+    "static/js/2.9476854e.chunk.js",
+    "static/css/main.69395516.chunk.css",
+    "static/js/main.02fe6383.chunk.js"
+  ]
+}
