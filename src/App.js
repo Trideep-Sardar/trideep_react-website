@@ -1,6 +1,6 @@
 import React from 'react';
 import Menu from './Menu'
-import { Route, Switch } from 'react-router-dom';
+import { Route, Switch,Redirect } from 'react-router-dom';
 import Home from './Home';
 import Contact from './Contact';
 import About from './About';
@@ -17,6 +17,7 @@ const App = () => {
         <Route path='/about' component={About}/>
         <Route path='/contact' component={Contact}/>
         <Route path='/service' component={Service}/>
+        <Redirect to="/"/>
       </Switch>
       <Footer/>
       </div>
