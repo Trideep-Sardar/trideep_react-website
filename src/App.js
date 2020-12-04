@@ -14,9 +14,9 @@ const App = () => {
       <Menu />
       <Switch>
         <Route exact path='/' component={Home}/>
-        <Route path='/about' component={About}/>
-        <Route path='/contact' component={Contact}/>
-        <Route path='/service' component={Service}/>
+        <Route exact path='/about' component={About}/>
+        <Route exact path='/contact' component={Contact}/>
+        <Route exact path='/service' component={Service}/>
         <Redirect to="/"/>
       </Switch>
       <Footer/>
