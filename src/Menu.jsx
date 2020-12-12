@@ -18,16 +18,16 @@ const Menu = () => {
   <div className="collapse navbar-collapse" id="navbarSupportedContent">
     <ul className="navbar-nav ml-auto">
       <li className="nav-item active">
-        < NavLink className="nav-link" exact to="/trideep_react-website/"><HomeIcon/> Home<span className="sr-only">(current)</span></ NavLink>
+        < NavLink className="nav-link" exact to="/"><HomeIcon/> Home<span className="sr-only">(current)</span></ NavLink>
       </li>
       <li className="nav-item">
-        < NavLink className="nav-link" exact to="/trideep_react-website/about"><SupervisorAccountIcon/> About</ NavLink>
+        < NavLink className="nav-link" exact to="/about"><SupervisorAccountIcon/> About</ NavLink>
       </li>
       <li className="nav-item">
-        < NavLink className="nav-link" exact to="/trideep_react-website/service"><WorkIcon/> Service</ NavLink>
+        < NavLink className="nav-link" exact to="/service"><WorkIcon/> Service</ NavLink>
       </li>
       <li className="nav-item">
-        < NavLink className="nav-link" exact to="/trideep_react-website/contact"><ContactsIcon/> Contact</ NavLink>
+        < NavLink className="nav-link" exact to="/contact"><ContactsIcon/> Contact</ NavLink>
       </li>
     </ul>
     <form className="form-inline" style={{display:"flex"}}>
